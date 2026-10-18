@@ -1,18 +1,44 @@
-## Getting Started
+# ☕ Olá, Mundo! em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto consiste em um programa simples desenvolvido em **Java**, como atividade acadêmica, com o objetivo de introduzir os conceitos básicos da linguagem e a utilização do **Visual Studio Code** como ambiente de desenvolvimento.
 
-## Folder Structure
+O programa apresenta a tradicional mensagem `Olá, Mundo!`, utilizada como primeiro exemplo no aprendizado de uma nova linguagem de programação.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📊 Funcionalidades do Programa
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Exibição da mensagem `Olá, Mundo!` no console;
+- Introdução à estrutura básica de um programa Java;
+- Prática de execução de código no Visual Studio Code.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📁 Estrutura do Repositório
+
+```text
+/ola-mundo-java
+│
+├── src/                   # Arquivos-fonte do programa
+├── bin/                   # Arquivos compilados
+├── lib/                   # Dependências do projeto, quando necessárias
+├── .vscode/               # Configurações do ambiente de desenvolvimento
+└── README.md              # Documentação do projeto
+```
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Java** — linguagem de programação utilizada no desenvolvimento;
+- **Visual Studio Code** — ambiente de desenvolvimento;
+- **Extension Pack for Java** — conjunto de extensões para auxiliar na escrita, compilação e execução de programas Java.
+
+---
+
+## 📌 Autoria
+
+**Bianca Ramos**
+
+Projeto desenvolvido como atividade acadêmica.
